@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{517C995E-F130-4D8D-B727-6AC8E75A2625}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{8D1FB24B-FB61-463E-9E92-A4F622E079FE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TCore", "TCore\TCore.pyproj", "{B89A0A82-9255-4A65-BA18-0F0DA1582EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89A0A82-9255-4A65-BA18-0F0DA1582EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89A0A82-9255-4A65-BA18-0F0DA1582EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B89A0A82-9255-4A65-BA18-0F0DA1582EAD} = {517C995E-F130-4D8D-B727-6AC8E75A2625}
+	EndGlobalSection
+EndGlobal
